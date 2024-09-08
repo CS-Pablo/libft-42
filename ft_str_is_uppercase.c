@@ -6,11 +6,11 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 18:48:53 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 19:00:05 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 19:00:47 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
+#include "ft.h"
 
 int	ft_str_is_uppercase(char *str)
 {
