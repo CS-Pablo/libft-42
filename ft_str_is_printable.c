@@ -6,7 +6,7 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 19:02:09 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 19:03:19 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 19:03:30 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,7 +30,7 @@ int	ft_str_is_printable(char *str)
 int	main(void)
 {
 	printf("%i\n",ft_str_is_printable("test"));
-	printf("%i\n",ft_str_is_printable("Test "));
+	printf("%i\n",ft_str_is_printable("hi "));
 	printf("%i\n",ft_str_is_printable("TEST\n"));
 }
 */
