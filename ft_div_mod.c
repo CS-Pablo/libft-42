@@ -6,9 +6,11 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 17:50:44 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 17:50:58 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 18:45:05 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "ft.h"
 
 void	ft_div_mod(int a, int b, int *div, int *mod)
 {
