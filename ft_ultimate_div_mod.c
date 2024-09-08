@@ -6,10 +6,11 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 17:52:49 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 17:52:59 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 18:45:27 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "ft.h"
 
 void	ft_ultimate_div_mod(int *a, int *b)
 {
