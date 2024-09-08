@@ -6,7 +6,7 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 19:08:35 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 19:09:39 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 19:09:43 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -35,4 +35,5 @@ int	main(void)
 	printf("%s\n",ft_strlowcase(a));
 	printf("%s\n",ft_strlowcase(b));
 	printf("%s\n",ft_strlowcase(c));
-}*/
+}
+*/
