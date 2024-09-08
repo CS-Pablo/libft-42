@@ -6,7 +6,7 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 18:40:37 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 18:42:36 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 18:42:44 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,10 +25,10 @@ int	ft_str_is_alpha(char *str)
 	return (1);
 }
 /*
-#include <stdio.h>
 int	main(void)
 {
 	printf("%i\n",ft_str_is_alpha("test"));
 	printf("%i\n",ft_str_is_alpha("test4"));
 	printf("%i\n",ft_str_is_alpha("test_"));
-}*/
+}
+*/
