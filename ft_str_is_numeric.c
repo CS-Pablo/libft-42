@@ -6,7 +6,7 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 18:44:18 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 18:44:44 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 18:44:49 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,7 +27,6 @@ int	ft_str_is_numeric(char *str)
 	return (1);
 }
 /*
-
 int	main(void)
 {
 	printf("%i\n",ft_str_is_numeric("42"));
