@@ -6,7 +6,7 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 00:59:29 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 17:14:42 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 19:47:15 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,7 +31,7 @@ void	ft_putnbr(int nb)
 		ft_putnbr(a / 10);
 	ft_putchar('0' + (a % 10));
 }
-/*
+
 int        main()
 {
     ft_putnbr(0xffffffff);
@@ -41,4 +41,3 @@ int        main()
     ft_putnbr(0x80000000);
     ft_putchar('\n');
 }
-*/
