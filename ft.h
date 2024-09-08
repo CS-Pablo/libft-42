@@ -6,7 +6,7 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 00:59:13 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 19:10:27 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 19:12:06 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -56,6 +56,7 @@ int	    ft_str_is_uppercase(char *str);
 int	    ft_str_is_printable(char *str);
 char	*ft_strupcase(char *str);
 char	*ft_strlowcase(char *str);
+char	*ft_strcapitalize(char *str);
 
 //C03
 
