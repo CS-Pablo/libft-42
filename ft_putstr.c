@@ -6,7 +6,7 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 17:55:23 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 18:03:23 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 18:03:32 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,6 +27,7 @@ void	ft_putstr(char *str)
 	while (*str)
 		write(1, str++, 1);
 }
+
 /*
 int	main()
 {
