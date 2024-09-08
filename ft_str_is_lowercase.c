@@ -6,13 +6,13 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 18:47:28 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 18:47:49 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 18:47:59 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft.h"
 
-int	ft_str_is_lowercase(char *str)
+int     ft_str_is_lowercase(char *str)
 {
 	int	i;
 
