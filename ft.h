@@ -6,7 +6,7 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 00:59:13 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 18:48:07 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 19:01:00 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -51,7 +51,8 @@ char	*ft_strcpy(char *dest, char *src);
 char	*ft_strncpy(char *dest, char *src, unsigned int n);
 int     ft_str_is_alpha(char *str);
 int     ft_str_is_numeric(char *str);
-int	    ft_str_is_lowercase(char *str)
+int	    ft_str_is_lowercase(char *str);
+int	    ft_str_is_uppercase(char *str)
 
 //C03
 
