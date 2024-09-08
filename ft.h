@@ -6,7 +6,7 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 00:59:13 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 18:17:30 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 18:19:58 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
-
+// C00
 void    ft_putchar(char c);
 void    ft_print_alphabet();
 void    ft_print_reverse_alphabet();
@@ -29,6 +29,7 @@ void	ft_putnbr(int nb);
 void    ft_combn(int n, char c,char *tab);
 void    ft_print(char *tab, char c);
 void	ft_print_combn(int n);
+//C01
 void    ft_ft(int *nbr);
 void	ft_swap(int *a, int *b);
 void    ft_ultimate_ft(int *********nbr);
