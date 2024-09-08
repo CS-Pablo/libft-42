@@ -6,7 +6,7 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 00:59:13 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 18:20:08 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 18:30:19 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -44,5 +44,10 @@ int     ft_strlen(char *str);
 void	ft_rev_int_tab(int *tab, int size);
 void	ft_sort_int_tab(int *tab, int size);
 void	ft_print_int_tab(int *tab, int size);
+
+//C02
+
+char	*ft_strcpy(char *dest, char *src);
+char	*ft_strncpy(char *dest, char *src, unsigned int n);
 
 #endif
