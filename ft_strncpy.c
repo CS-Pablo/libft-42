@@ -6,7 +6,7 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 18:29:44 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 18:39:59 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 18:40:16 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -48,4 +48,5 @@ int	main(void)
 
 	src = "test";
 	printf("%s\n", ft_strncpy(dest, src, ft_strlen(src)));
-}*/ 
+}
+*/ 
