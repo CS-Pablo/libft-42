@@ -6,7 +6,7 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 00:59:13 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 17:57:48 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 17:59:03 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -35,5 +35,6 @@ void    ft_ultimate_ft(int *********nbr);
 void	ft_div_mod(int a, int b, int *div, int *mod);
 void	ft_ultimate_div_mod(int *a, int *b);
 void	ft_putstr(char *str);
+int     ft_strlen(char *str)
 
 #endif
