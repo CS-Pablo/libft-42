@@ -6,7 +6,7 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 00:59:13 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 19:13:36 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/08 19:15:18 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -58,6 +58,8 @@ char	*ft_strupcase(char *str);
 char	*ft_strlowcase(char *str);
 char	*ft_strcapitalize(char *str);
 unsigned int	ft_strlcpy(char *dest, char *src, unsigned int size);
+void	ft_put_hexa(unsigned char c);
+void	ft_putstr_non_printable(char *str);
 
 //C03
 
