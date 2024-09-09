@@ -6,7 +6,14 @@
 /*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 17:24:35 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 17:24:36 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/09 17:52:42 by csauron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
+
+int     main()
+{
+    ft_putchar();
+    ft_strlen();
+}
