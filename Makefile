@@ -10,7 +10,10 @@ $(TARGET):
 
 .PHONY: all fclean re
 
+clean: 
+	fclean all
+
 fclean:
 		-rm -f $(TARGET)
 
-re: fclean al
+re: fclean all
