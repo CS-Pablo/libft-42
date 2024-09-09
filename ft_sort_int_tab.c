@@ -3,14 +3,15 @@
 /*                                                        :::      ::::::::   */
 /*   ft_sort_int_tab.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
+/*   By: sauron <sauron@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 18:16:41 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 18:17:10 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/09 16:25:55 by sauron           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft.h"
+#include "libft.h"
+
 void	ft_sort_int_tab(int *tab, int size)
 {
 	int	i;
