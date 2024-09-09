@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_ultimate_ft.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
+/*   By: sauron <sauron@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 17:33:25 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 17:40:03 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/09 16:19:36 by sauron           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft.h"
+#include "libft.h"
 
 void    ft_ultimate_ft(int *********nbr)
 {
