@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_str_is_printable.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
+/*   By: sauron <sauron@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 19:02:09 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 19:03:33 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/09 16:25:15 by sauron           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft.h"
+#include "libft.h"
 
 int	ft_str_is_printable(char *str)
 {
