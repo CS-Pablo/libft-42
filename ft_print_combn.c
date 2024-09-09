@@ -3,15 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_combn.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
+/*   By: sauron <sauron@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 00:59:02 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 17:24:23 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/09 16:22:03 by sauron           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
-#include <stdlib.h>
+#include "libft.h"
 
 void	ft_putchar(char c)
 {
