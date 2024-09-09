@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_rev_int_tab.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
+/*   By: sauron <sauron@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 18:13:23 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 18:31:47 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/09 16:26:04 by sauron           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft.h"
+#include "libft.h"
 
 void	ft_rev_int_tab(int *tab, int size)
 {
