@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_ft.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: csauron <csauron@student.42.fr>            +#+  +:+       +#+        */
+/*   By: sauron <sauron@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/08 15:02:08 by csauron           #+#    #+#             */
-/*   Updated: 2024/09/08 17:23:07 by csauron          ###   ########.fr       */
+/*   Updated: 2024/09/09 16:20:17 by sauron           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft.h"
+#include "libft.h"
 
 void    ft_ft(int *nbr)
 {
